@@ -1,3 +1,10 @@
+//Steps to run project
+1.Clone the repository
+2.run npm I
+3. run yarn start
+Project will start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
